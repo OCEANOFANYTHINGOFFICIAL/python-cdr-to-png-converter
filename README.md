@@ -1,6 +1,5 @@
 # Python CDR to PNG Converter
 
-![GitHub repo size](https://img.shields.io/github/repo-size/OCEANOFANYTHINGOFFICIAL/python-cdr-to-png-converter)
 ![GitHub contributors](https://img.shields.io/github/contributors/OCEANOFANYTHINGOFFICIAL/python-cdr-to-png-converter)
 ![GitHub stars](https://img.shields.io/github/stars/OCEANOFANYTHINGOFFICIAL/python-cdr-to-png-converter?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/OCEANOFANYTHINGOFFICIAL/python-cdr-to-png-converter?style=social)
